@@ -1,0 +1,17 @@
+From cstim at berlios.de  Mon May 22 13:02:39 2006
+From: cstim at berlios.de (cstim at BerliOS)
+Date: Mon, 22 May 2006 13:02:39 +0200
+Subject: [Ktoblzcheck-svn] r164 - trunk
+Message-ID: <200605221102.k4MB2dZH029474@sheep.berlios.de>
+
+Author: cstim
+Date: 2006-05-22 13:02:38 +0200 (Mon, 22 May 2006)
+New Revision: 164
+
+Removed:
+   trunk/ktoblzcheck/
+Log:
+Remove all code from here. Project is not hosted here.
+
+
+
